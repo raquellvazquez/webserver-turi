@@ -16,7 +16,7 @@ Ademas de esto, los usuarios que se registren en la página pueden dejar comenta
 
 ## IMPORTANTE
 
-En este repositario unicamente se encuentra servido el contenido estatico de TURI en un pequeño web server hecho con Express, para ver el respositorio con el código principal de TURI visita: [TURI](https://ecstatic-kalam-24f842.netlify.app/), ya que aqui encontraras instrucciones de como levantar nuestro proyecto para poder probar nuestro backend dummie e información más detallada sobre el uso y desarrollo de TURI.
+En este repositario unicamente se encuentra servido el contenido estatico de TURI en un pequeño web server hecho con Express, para ver el respositorio con el código principal de TURI visita: [TURI REPOSITORIO PRINCIPAL](https://github.com/raquellvazquez/pueblos-magicos), ya que aqui encontraras instrucciones de como levantar nuestro proyecto para poder probar nuestro backend dummie e información más detallada sobre el uso y desarrollo de TURI.
 
 
 ## ¿Quienes mantienen y contribuyen a TURI?
